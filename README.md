@@ -5,7 +5,7 @@
 Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb, Charles Ree
 ---
 
-Lab results will be gathered from using a simple k-nn technique to try in classifying people's neighborhoods, there will be multiple runs utlizing different categories.
+Lab results will be gathered from using a simple k-nn technique to try in classifying people's neighborhoods, there will be multiple runs utilizing different categories.
 
 For the first example, this run will follow the variables of household cost anf income total which were provided from the Lab 3 guidelines:
 
