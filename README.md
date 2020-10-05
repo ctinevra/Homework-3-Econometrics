@@ -1,6 +1,8 @@
 # Homework-3-Econometrics
 ---
-'Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb, Charles Reed'
+## Christopher Tinevra 
+
+Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb, Charles Ree
 ---
 
 Lab results will be gathered from using a simple k-nn technique to try in classifying people's neighborhoods, there will be multiple runs utlizing different categories.
